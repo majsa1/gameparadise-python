@@ -1,0 +1,201 @@
+BARCODE,MERK,TYPE,TITEL,SPEL_OF_CONSOLE,CATEGORIE
+10000000,"Microsoft                     ","Xbox                          ",NULL,CONSOLE,NULL
+10000001,"Microsoft                     ","Xbox                          ",NULL,CONSOLE,NULL
+10000004,"Microsoft                     ","Xbox 360                      ",NULL,CONSOLE,NULL
+10000005,"Microsoft                     ","Xbox 360                      ",NULL,CONSOLE,NULL
+10000006,"Microsoft                     ","Xbox 360                      ",NULL,CONSOLE,NULL
+10000008,"Microsoft                     ","Xbox 360                      ",NULL,CONSOLE,NULL
+10000009,"Microsoft                     ","Xbox 360                      ",NULL,CONSOLE,NULL
+10000010,"Microsoft                     ","Xbox 360                      ",NULL,CONSOLE,NULL
+10000011,"Microsoft                     ","Xbox 360                      ",NULL,CONSOLE,NULL
+10000012,"Microsoft                     ","Xbox 360                      ",NULL,CONSOLE,NULL
+10000013,"Microsoft                     ","XBox One                      ",NULL,CONSOLE,NULL
+10000015,"Microsoft                     ","XBox One                      ",NULL,CONSOLE,NULL
+10000018,"Microsoft                     ","XBox One X                    ",NULL,CONSOLE,NULL
+10000019,"Microsoft                     ","XBox One X                    ",NULL,CONSOLE,NULL
+10000020,"Nintendo                      ","WII                           ",NULL,CONSOLE,NULL
+10000021,"Nintendo                      ","WII                           ",NULL,CONSOLE,NULL
+10000024,"Nintendo                      ","WII                           ",NULL,CONSOLE,NULL
+10000028,"Nintendo                      ","WII U                         ",NULL,CONSOLE,NULL
+10000030,"Nintendo                      ","WII U                         ",NULL,CONSOLE,NULL
+10000031,"Nintendo                      ","WII U                         ",NULL,CONSOLE,NULL
+10000033,"Nintendo                      ","WII U                         ",NULL,CONSOLE,NULL
+10000034,"Nintendo                      ","WII U                         ",NULL,CONSOLE,NULL
+10000035,"Nintendo                      ","NES Classic Edition           ",NULL,CONSOLE,NULL
+10000037,"Nintendo                      ","Switch                        ",NULL,CONSOLE,NULL
+10000038,"Nintendo                      ","Switch                        ",NULL,CONSOLE,NULL
+10000039,"Nintendo                      ","Switch                        ",NULL,CONSOLE,NULL
+10000040,"Sony                          ","PS3                           ",NULL,CONSOLE,NULL
+10000041,"Sony                          ","PS3                           ",NULL,CONSOLE,NULL
+10000042,"Sony                          ","PS3                           ",NULL,CONSOLE,NULL
+10000043,"Sony                          ","PS3                           ",NULL,CONSOLE,NULL
+10000044,"Sony                          ","PS3                           ",NULL,CONSOLE,NULL
+10000045,"Sony                          ","PS3                           ",NULL,CONSOLE,NULL
+10000047,"Sony                          ","PS4                           ",NULL,CONSOLE,NULL
+10000048,"Sony                          ","PS4                           ",NULL,CONSOLE,NULL
+10000049,"Sony                          ","PS4                           ",NULL,CONSOLE,NULL
+10000051,"Sony                          ","PS4                           ",NULL,CONSOLE,NULL
+10000052,"Sony                          ","PS4                           ",NULL,CONSOLE,NULL
+10000055,"Sony                          ","PS4 Pro                       ",NULL,CONSOLE,NULL
+10000056,"Sony                          ","PS4 Pro                       ",NULL,CONSOLE,NULL
+10000059,"Sony                          ","PS4 Slim                      ",NULL,CONSOLE,NULL
+10000060,NULL,NULL,0 Cent: Bulletproof - Australia,"SPEL   ","Action                                            "
+10000061,NULL,NULL,Assassin's Creed - Saudi Arabia,"SPEL   ","Historical fiction                                "
+10000062,NULL,NULL,Battlefield III - Iran,"SPEL   ","First-person shooter                              "
+10000063,NULL,NULL,Battlefield IV - China,"SPEL   ","First-person shooter                              "
+10000064,NULL,NULL,BlazBlue II: Continuum Shift - United Arab Emirates,"SPEL   ","Fighting                                          "
+10000066,NULL,NULL,Blood - Brazil,"SPEL   ","First-person shooter                              "
+10000067,NULL,NULL,BMX XXX - Australia,"SPEL   ","Racing                                            "
+10000068,NULL,NULL,Bully - Brazil,"SPEL   ","Action                                            "
+10000069,NULL,NULL,Call of Duty IV: Modern Warfare - Saudi Arabia,"SPEL   ","First-person shooter                              "
+10000070,NULL,NULL,Call of Duty IV: Modern Warfare - United Arab Emirates,"SPEL   ","First-person shooter                              "
+10000072,NULL,NULL,Carmageddon - Brazil,"SPEL   ","Combat                                            "
+10000073,NULL,NULL,Carmageddon - United Kingdom,"SPEL   ","Combat                                            "
+10000074,NULL,NULL,Carmageddon - United Kingdom,"SPEL   ","Combat                                            "
+10000076,NULL,NULL,Carmageddon - United Kingdom,"SPEL   ","Combat                                            "
+10000077,NULL,NULL,Carmageddon - United Kingdom,"SPEL   ","Combat                                            "
+10000078,NULL,NULL,Condemned I: Criminal Origins - Germany,"SPEL   ","Action                                            "
+10000079,NULL,NULL,Condemned II: Bloodshot - Germany,"SPEL   ","Action                                            "
+10000080,NULL,NULL,Counter-Strike - Brazil,"SPEL   ","First-person shooter                              "
+10000081,NULL,NULL,Dante's Inferno - Malaysia,"SPEL   ","Hack and slash                                    "
+10000083,NULL,NULL,Darksiders - United Arab Emirates,"SPEL   ","Hack and slash                                    "
+10000092,NULL,NULL,Dead Rising II,"SPEL   ","Survival                                          "
+10000087,NULL,NULL,Dead Rising II - Germany,"SPEL   ","Survival                                          "
+10000094,NULL,NULL,Duke Nukem 3D - Brazil,"SPEL   ","First-person shooter                              "
+10000095,NULL,NULL,EA Sports MMA - Denmark,"SPEL   ","Sports                                            "
+10000099,NULL,NULL,God of War (series) - Saudi Arabia,"SPEL   ","Music                                             "
+10000107,NULL,NULL,Grand Theft Auto (series) - Thailand,"SPEL   ","Crime                                             "
+10000108,NULL,NULL,Grand Theft Auto V - Saudi Arabia,"SPEL   ","Action                                            "
+10000109,NULL,NULL,Grand Theft Auto: Episodes from Liberty City - Brazil,"SPEL   ","Action                                            "
+10000112,NULL,NULL,Harvester - Germany,"SPEL   ","Adventure                                         "
+10000113,NULL,NULL,Hearts of Iron - China,"SPEL   ","Strategy                                          "
+10000114,NULL,NULL,Heavy Rain - Saudi Arabia,"SPEL   ","Interactive movie                                 "
+10000115,NULL,NULL,Heavy Rain - United Arab Emirates,"SPEL   ","Interactive movie                                 "
+10000117,NULL,NULL,Hotline Miami II: Wrong Number - Australia,"SPEL   ","Action                                            "
+10000118,NULL,NULL,I.G.I.-2: Covert Strike - China,"SPEL   ","Stealth                                           "
+10000119,NULL,NULL,Injustice: Gods Among Us - United Arab Emirates,"SPEL   ","Fighting                                          "
+10000122,NULL,NULL,L.A. Noire - Saudi Arabia,"SPEL   ","Action                                            "
+10000123,NULL,NULL,Left 4 Dead II - Germany,"SPEL   ","First-person shooter                              "
+10000125,NULL,NULL,Mafia II - United Arab Emirates,"SPEL   ","Third-person shooter                              "
+10000126,NULL,NULL,Mafia II - United Arab Emirates,"SPEL   ","Third-person shooter                              "
+10000127,NULL,NULL,Mafia II - United Arab Emirates,"SPEL   ","Third-person shooter                              "
+10000128,NULL,NULL,Mafia II - United Arab Emirates,"SPEL   ","Third-person shooter                              "
+10000129,NULL,NULL,Mafia II - United Arab Emirates,"SPEL   ","Third-person shooter                              "
+10000130,NULL,NULL,Mafia II - United Arab Emirates,"SPEL   ","Third-person shooter                              "
+10000131,NULL,NULL,Mafia II - United Arab Emirates,"SPEL   ","Third-person shooter                              "
+10000132,NULL,NULL,Mafia II - United Arab Emirates,"SPEL   ","Third-person shooter                              "
+10000133,NULL,NULL,Manhunt (series) - Australia,"SPEL   ","Stealth                                           "
+10000134,NULL,NULL,Manhunt (series) - Australia,"SPEL   ","Stealth                                           "
+10000136,NULL,NULL,Manhunt (series) - Australia,"SPEL   ","Stealth                                           "
+10000137,NULL,NULL,Manhunt (series) - Australia,"SPEL   ","Stealth                                           "
+10000138,NULL,NULL,Manhunt (series) - Germany,"SPEL   ","Stealth                                           "
+10000139,NULL,NULL,Manhunt (series) - Malaysia,"SPEL   ","Stealth                                           "
+10000140,NULL,NULL,Manhunt (series) - New Zealand,"SPEL   ","Stealth                                           "
+10000142,NULL,NULL,Manhunt II - Germany,"SPEL   ","Stealth                                           "
+10000143,NULL,NULL,Manhunt II - Ireland,"SPEL   ","Stealth                                           "
+10000144,NULL,NULL,Manhunt II - New Zealand,"SPEL   ","Stealth                                           "
+10000145,NULL,NULL,Manhunt II - South Korea,"SPEL   ","Stealth                                           "
+10000146,NULL,NULL,Manhunt II - United Kingdom,"SPEL   ","Stealth                                           "
+10000147,NULL,NULL,Marc Ecko's Getting Up:Contents Under Pressure - Australia,"SPEL   ","Beat 'em up                                       "
+10000148,NULL,NULL,Mass Effect - Singapore,"SPEL   ","Role-playing                                      "
+10000149,NULL,NULL,Mass Effect II - United Arab Emirates,"SPEL   ","Third-person shooter                              "
+10000150,NULL,NULL,Mass Effect III - United Arab Emirates,"SPEL   ","Third-person shooter                              "
+10000151,NULL,NULL,Max Payne - United Arab Emirates,"SPEL   ","Third-person shooter                              "
+10000152,NULL,NULL,Medal of Honor IVX: Warfighter - Pakistan,"SPEL   ","First-person shooter                              "
+10000153,NULL,NULL,Mercenaries I: Playground of Destruction - South Korea,"SPEL   ","Action                                            "
+10000156,NULL,NULL,Mortal Kombat - Brazil,"SPEL   ","Fighting                                          "
+10000157,NULL,NULL,Mortal Kombat - Brazil,"SPEL   ","Fighting                                          "
+10000158,NULL,NULL,Mortal Kombat - Germany,"SPEL   ","Fighting                                          "
+10000159,NULL,NULL,Mortal Kombat - Germany,"SPEL   ","Fighting                                          "
+10000160,NULL,NULL,Mortal Kombat - South Korea,"SPEL   ","Fighting                                          "
+10000161,NULL,NULL,Mortal Kombat II - Germany,"SPEL   ","Fighting                                          "
+10000162,NULL,NULL,Mortal Kombat III - Germany,"SPEL   ","Fighting                                          "
+10000163,NULL,NULL,Mortyr - Germany,"SPEL   ","First-person shooter                              "
+10000165,NULL,NULL,Mortyr - Germany,"SPEL   ","First-person shooter                              "
+10000167,NULL,NULL,Mortyr - Germany,"SPEL   ","First-person shooter                              "
+10000168,NULL,NULL,Mortyr - Germany,"SPEL   ","First-person shooter                              "
+10000170,NULL,NULL,Mortyr - Germany,"SPEL   ","First-person shooter                              "
+10000173,NULL,NULL,NARC (2005) - Australia,"SPEL   ","Run and gun                                       "
+10000180,NULL,NULL,Phantasmagoria - Australia,"SPEL   ","Interactive movie                                 "
+10000183,NULL,NULL,Phantasmagoria - Australia,"SPEL   ","Interactive movie                                 "
+10000184,NULL,NULL,Phantasmagoria - Australia,"SPEL   ","Interactive movie                                 "
+10000189,NULL,NULL,Phantasmagoria - Australia,"SPEL   ","Interactive movie                                 "
+10000191,NULL,NULL,Phantasmagoria - Australia,"SPEL   ","Interactive movie                                 "
+10000192,NULL,NULL,Phantasmagoria - Australia,"SPEL   ","Interactive movie                                 "
+10000193,NULL,NULL,Pok?mon Trading Card Game - Saudi Arabia,"SPEL   ","Collectible Cards                                 "
+10000194,NULL,NULL,Pok?mon Trading Card Game - Saudi Arabia,"SPEL   ","Collectible Cards                                 "
+10000195,NULL,NULL,Pok?mon Trading Card Game - Saudi Arabia,"SPEL   ","Collectible Cards                                 "
+10000196,NULL,NULL,Postal - Australia,"SPEL   ","Third-person shooter                              "
+10000197,NULL,NULL,Postal - Australia,"SPEL   ","Third-person shooter                              "
+10000198,NULL,NULL,Postal - Australia,"SPEL   ","Third-person shooter                              "
+10000199,NULL,NULL,Postal - China,"SPEL   ","Third-person shooter                              "
+10000200,NULL,NULL,Postal - China,"SPEL   ","Third-person shooter                              "
+10000201,NULL,NULL,Postal - China,"SPEL   ","Third-person shooter                              "
+10000202,NULL,NULL,Postal II - Australia,"SPEL   ","First-person shooter                              "
+10000203,NULL,NULL,Postal II - Australia,"SPEL   ","First-person shooter                              "
+10000204,NULL,NULL,Postal II - Australia,"SPEL   ","First-person shooter                              "
+10000205,NULL,NULL,Postal II - New Zealand,"SPEL   ","First-person shooter                              "
+10000207,NULL,NULL,Postal II - New Zealand,"SPEL   ","First-person shooter                              "
+10000208,NULL,NULL,Postal II Demo Game - New Zealand,"SPEL   ","First-person shooter                              "
+10000209,NULL,NULL,Postal II Demo Game - New Zealand,"SPEL   ","First-person shooter                              "
+10000210,NULL,NULL,Postal II Demo Game - New Zealand,"SPEL   ","First-person shooter                              "
+10000212,NULL,NULL,RapeLay - Argentina,"SPEL   ","Eroge                                             "
+10000214,NULL,NULL,RapeLay - Indonesia,"SPEL   ","Eroge                                             "
+10000215,NULL,NULL,RapeLay - Indonesia,"SPEL   ","Eroge                                             "
+10000216,NULL,NULL,RapeLay - Indonesia,"SPEL   ","Eroge                                             "
+10000218,NULL,NULL,RapeLay - New Zealand,"SPEL   ","Eroge                                             "
+10000220,NULL,NULL,RapeLay - New Zealand,"SPEL   ","Eroge                                             "
+10000221,NULL,NULL,Reservoir Dogs - Australia,"SPEL   ","Third-person shooter                              "
+10000222,NULL,NULL,Reservoir Dogs - Australia,"SPEL   ","Third-person shooter                              "
+10000226,NULL,NULL,Reservoir Dogs - New Zealand,"SPEL   ","Third-person shooter                              "
+10000227,NULL,NULL,Risen - Australia,"SPEL   ","Action                                            "
+10000228,NULL,NULL,Risen - Australia,"SPEL   ","Action                                            "
+10000229,NULL,NULL,Risen - Australia,"SPEL   ","Action                                            "
+10000232,NULL,NULL,Saints Row III - United Arab Emirates,"SPEL   ","Action                                            "
+10000234,NULL,NULL,Saints Row IV - Australia,"SPEL   ","Action                                            "
+10000238,NULL,NULL,Saints Row IV - Australia,"SPEL   ","Action                                            "
+10000239,NULL,NULL,Saints Row IV - Australia,"SPEL   ","Action                                            "
+10000240,NULL,NULL,Saints Row IV - Australia,"SPEL   ","Action                                            "
+10000242,NULL,NULL,Saints Row IV - United Arab Emirates,"SPEL   ","Action                                            "
+10000244,NULL,NULL,Saints Row IV - United Arab Emirates,"SPEL   ","Action                                            "
+10000245,NULL,NULL,Saints Row IV - United Arab Emirates,"SPEL   ","Action                                            "
+10000246,NULL,NULL,Saints Row IV - United Arab Emirates,"SPEL   ","Action                                            "
+10000247,NULL,NULL,Saints Row IV - United Arab Emirates,"SPEL   ","Action                                            "
+10000249,NULL,NULL,Scarface: The World is Yours - Germany,"SPEL   ","Action                                            "
+10000251,NULL,NULL,Shellshock II: Blood Trails - Australia,"SPEL   ","First-person shooter                              "
+10000252,NULL,NULL,Silent Hill VI: Homecoming - Australia,"SPEL   ","Survival|Horror                                   "
+10000253,NULL,NULL,Silent Hill VI: Homecoming - Australia,"SPEL   ","Survival|Horror                                   "
+10000254,NULL,NULL,Silent Hill VI: Homecoming - Australia,"SPEL   ","Survival|Horror                                   "
+10000255,NULL,NULL,Silent Hill VI: Homecoming - Australia,"SPEL   ","Survival|Horror                                   "
+10000256,NULL,NULL,Silent Hill VI: Homecoming - Germany,"SPEL   ","Survival|Horror                                   "
+10000257,NULL,NULL,Silent Hill VI: Homecoming - Germany,"SPEL   ","Survival|Horror                                   "
+10000258,NULL,NULL,Singles: Flirt Up Your Life - Australia,"SPEL   ","Simulation                                        "
+10000259,NULL,NULL,Singles: Flirt Up Your Life - Australia,"SPEL   ","Simulation                                        "
+10000260,NULL,NULL,Soldier of Fortune III: Payback - Australia,"SPEL   ","First-person shooter                              "
+10000261,NULL,NULL,Soldier of Fortune III: Payback - Australia,"SPEL   ","First-person shooter                              "
+10000264,NULL,NULL,Sonic Blast Man - United States,"SPEL   ","Beat 'em up                                       "
+10000265,NULL,NULL,Sonic Blast Man - United States,"SPEL   ","Beat 'em up                                       "
+10000266,NULL,NULL,Sonic Blast Man - United States,"SPEL   ","Beat 'em up                                       "
+10000268,NULL,NULL,Syndicate - Australia,"SPEL   ","First-person shooter                              "
+10000269,NULL,NULL,Syndicate - Australia,"SPEL   ","First-person shooter                              "
+10000270,NULL,NULL,The Cat In The Hat - Brazil,"SPEL   ","First-person shooter                              "
+10000271,NULL,NULL,The Cat In The Hat - Brazil,"SPEL   ","First-person shooter                              "
+10000272,NULL,NULL,The Darkness - Germany,"SPEL   ","First-person shooter                              "
+10000274,NULL,NULL,The Getaway - Australia,"SPEL   ","Action                                            "
+10000275,NULL,NULL,The Godfather II - United Arab Emirates,"SPEL   ","Action                                            "
+10000276,NULL,NULL,The Godfather II - United Arab Emirates,"SPEL   ","Action                                            "
+10000277,NULL,NULL,The Godfather II - United Arab Emirates,"SPEL   ","Action                                            "
+10000278,NULL,NULL,The Godfather II - United Arab Emirates,"SPEL   ","Action                                            "
+10000279,NULL,NULL,Three Sisters' Story - New Zealand,"SPEL   ","Visual novel                                      "
+10000280,NULL,NULL,Three Sisters' Story - New Zealand,"SPEL   ","Visual novel                                      "
+10000281,NULL,NULL,Three Sisters' Story - New Zealand,"SPEL   ","Visual novel                                      "
+10000282,NULL,NULL,Tom Clancy's Splinter Cell II: Pandora Tomorrow - Indonesia,"SPEL   ","Stealth                                           "
+10000284,NULL,NULL,Tom Clancy's Splinter Cell II: Pandora Tomorrow - Indonesia,"SPEL   ","Stealth                                           "
+10000285,NULL,NULL,Tom Clancy's Splinter Cell III: Chaos Theory - South Korea,"SPEL   ","Stealth                                           "
+10000289,NULL,NULL,Voyeur - Australia,"SPEL   ","Full Motion                                       "
+10000290,NULL,NULL,Voyeur - Australia,"SPEL   ","Full Motion                                       "
+10000291,NULL,NULL,Watch Dogs - United Arab Emirates,"SPEL   ","Action                                            "
+10000295,NULL,NULL,Wolfenstein - Germany,"SPEL   ","First-person shooter                              "
+10000297,NULL,NULL,Wolfenstein - Germany,"SPEL   ","First-person shooter                              "
+10000298,NULL,NULL,Wolfenstein - Germany,"SPEL   ","First-person shooter                              "
+10000299,NULL,NULL,Wolfenstein - Germany,"SPEL   ","First-person shooter                              "
